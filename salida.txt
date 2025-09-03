@@ -1,0 +1,950 @@
+   logo (BUTTON)
+   Nuevo Chat
+   ____________________
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Todas las conversaciones
+   Hoy
+   Configuración Multi-Servicio Docker
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Últimos 7 días
+   Configurar cuenta de correo en Thunderbird
+   (BUTTON)
+   (BUTTON)
+   Pasar fotos de iPhone a Mac
+   (BUTTON)
+   (BUTTON)
+   Últimos 30 días
+   Debian 12 Kernel Version
+   (BUTTON)
+   (BUTTON)
+   Version del Kernel de Linux
+   (BUTTON)
+   (BUTTON)
+   Rsync Sincronizacion Opciones
+   (BUTTON)
+   (BUTTON)
+   EFI Partition ID in fdisk
+   (BUTTON)
+   (BUTTON)
+   Exportar Certificado Digital en Chrome
+   (BUTTON)
+   (BUTTON)
+   Recuperar Clave de Producto Windows 10
+   (BUTTON)
+   (BUTTON)
+   Licencia Original de Windows 10
+   (BUTTON)
+   (BUTTON)
+   julio
+   Servidor DHCP en Debian
+   (BUTTON)
+   (BUTTON)
+   Montaje Automático NVMe en Linux
+   (BUTTON)
+   (BUTTON)
+   SSL en Debian 6.1
+   (BUTTON)
+   (BUTTON)
+   Instalar Apache en Debian 6.1 Squeeze
+   (BUTTON)
+   (BUTTON)
+   Reiniciar Configuración de Red en Debian
+   (BUTTON)
+   (BUTTON)
+   Eliminar ruta predeterminada Debian
+   (BUTTON)
+   (BUTTON)
+   Manejo de Logs con journalctl
+   (BUTTON)
+   (BUTTON)
+   Compartir carpeta con NFS en Ubuntu
+   (BUTTON)
+   (BUTTON)
+   Configurar BIND en Rocky Linux 9.5
+   (BUTTON)
+   (BUTTON)
+   Purgar MariaDB en Rocky Linux 9.5
+   (BUTTON)
+   (BUTTON)
+   Desactivar Firewall en Rocky Linux 10
+   (BUTTON)
+   (BUTTON)
+   Servidor Local w1.guatemala.aula11
+   (BUTTON)
+   (BUTTON)
+   Exportar Máquina Virtual VirtualBox
+   (BUTTON)
+   (BUTTON)
+   Copiar archivos Linux-Windows con SCP
+   (BUTTON)
+   (BUTTON)
+   Uso del Disco en Debian 5.0
+   (BUTTON)
+   (BUTTON)
+   Calculo Dirección Broadcast CIDR 26bits
+   (BUTTON)
+   (BUTTON)
+   Configuracion wpa_supplicant.conf
+   (BUTTON)
+   (BUTTON)
+   Configurar Dirección de Red en Rocky Linux
+   (BUTTON)
+   (BUTTON)
+   Administración RAID con mdadm
+   (BUTTON)
+   (BUTTON)
+   Configurar dos interfaces de red en Debian 6.1 VBox
+   (BUTTON)
+   (BUTTON)
+   Puertos Abiertos en Debian 6.1
+   (BUTTON)
+   (BUTTON)
+   CreacionArchivoLoopImg
+   (BUTTON)
+   (BUTTON)
+   Instalar SSH en Debian 5.10
+   (BUTTON)
+   (BUTTON)
+   Arranque de VM VirtualBox por comandos
+   (BUTTON)
+   (BUTTON)
+   Importar VDI a VirtualBox
+   (BUTTON)
+   (BUTTON)
+   Extraer Archivos o Datos
+   (BUTTON)
+   (BUTTON)
+   Comprimir con tar en Windows
+   (BUTTON)
+   (BUTTON)
+   Uso y opciones del comando SCP
+   (BUTTON)
+   (BUTTON)
+   junio
+   Configurar Red en Debian 6.1 Squeeze
+   (BUTTON)
+   (BUTTON)
+   Comando para agregar usuario en Linux
+   (BUTTON)
+   (BUTTON)
+   Añadir usuario a sudoers
+   (BUTTON)
+   (BUTTON)
+   Configurar VM Rocky con dos interfaces de red
+   (BUTTON)
+   (BUTTON)
+   Renombrar Pestañas en Terminales
+   (BUTTON)
+   (BUTTON)
+   Hostnamectl Command Examples
+   (BUTTON)
+   (BUTTON)
+   Instalación VBoxGuestAdditions
+   (BUTTON)
+   (BUTTON)
+   Solución de Errores DKMS en Debian 5.10
+   (BUTTON)
+   (BUTTON)
+   Algoritmo Recursivo Primos Bash
+   (BUTTON)
+   (BUTTON)
+   Escritorios Virtuales en Windows
+   (BUTTON)
+   (BUTTON)
+   Downgrade Ubuntu 24.04 Interface
+   (BUTTON)
+   (BUTTON)
+   Configurar VirtualBox con Ubuntu 24.04
+   (BUTTON)
+   (BUTTON)
+   Interfaz Red NO-CARRIER
+   (BUTTON)
+   (BUTTON)
+   Sudoers File Syntax
+   (BUTTON)
+   (BUTTON)
+   YAML Red Interfaces
+   (BUTTON)
+   (BUTTON)
+   SSH Password Transfer
+   (BUTTON)
+   (BUTTON)
+   Netplan YAML Configuration
+   (BUTTON)
+   (BUTTON)
+   Propósito de nsswitch.conf
+   (BUTTON)
+   (BUTTON)
+   Cambiar Nombre Ubuntu Máquina
+   (BUTTON)
+   (BUTTON)
+   Redes IP y máscaras de subred
+   (BUTTON)
+   (BUTTON)
+   SSH Key Authentication Setup
+   (BUTTON)
+   (BUTTON)
+   Multitecla Teclado
+   (BUTTON)
+   (BUTTON)
+   Cargando...
+   (BUTTON) (BUTTON)
+   User profile
+   jose manuel mendez
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Qwen3-235B-A22B-2507
+   (BUTTON)
+   (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+   User profile
+   Cargando...
+
+   Quiero instalar Home Assistant, NodeRed, influxdb y grafana en
+   contenedores docker dentro de una maquina debian 12, para aconfigurar
+   un conjunto que comparta los datos y colaboren unos con los otros, cada
+   uno con su tarea especifica. Como puedo
+   hacerlo?u_atoken=2f1ce793437b13d1a7089116fca091c7
+   (BUTTON)
+   (BUTTON)
+   profile
+   Qwen3-235B-A22B-2507 10:26 pm
+
+   ¡Perfecto! Instalar Home Assistant, Node-RED, InfluxDB y Grafana en
+   contenedores Docker dentro de una máquina Debian 12 es una excelente
+   forma de crear un sistema de automatización doméstica robusto y
+   escalable. A continuación, te guiaré paso a paso para configurar todo
+   usando un archivo docker-compose.yml, lo que facilita el despliegue y
+   la gestión de los servicios.
+     __________________________________________________________________
+
+Objetivo
+
+   Crear un entorno donde:
+     * Home Assistant gestiona dispositivos y automatizaciones.
+     * Node-RED maneja flujos de automatización avanzados.
+     * InfluxDB almacena métricas de sensores y dispositivos.
+     * Grafana visualiza esos datos en paneles.
+
+   Todos los servicios estarán en contenedores Docker, comunicándose entre
+   sí mediante una red Docker compartida y compartiendo volúmenes para
+   persistencia.
+     __________________________________________________________________
+
+§ PASO 1: Instalar Docker y Docker Compose
+
+   En tu máquina Debian 12, ejecuta:
+   bash
+   (BUTTON)
+   (BUTTON)
+   99
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+   10
+   11
+   12
+   13
+   14
+   15
+   >
+   # Actualizar sistema
+   sudo apt update && sudo apt upgrade -y
+   # Instalar dependencias
+   sudo apt install -y curl git apt-transport-https ca-certificates
+   software-properties-common
+   # Añadir repositorio oficial de Docker
+   curl -fsSL https://get.docker.com | sh
+   # Añadir tu usuario al grupo docker (para no usar sudo)
+   sudo usermod -aG docker $USER
+   # Instalar Docker Compose (versión actual)
+   sudo curl -L
+   "https://github.com/docker/compose/releases/latest/download/docker-comp
+   ose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   sudo chmod +x /usr/local/bin/docker-compose
+
+     Cierra y vuelve a abrir la terminal para que el grupo docker tenga
+     efecto.
+     __________________________________________________________________
+
+PASO 2: Crear la estructura de directorios
+
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   2
+   3
+   4
+   >
+   mkdir -p ~/homeassistant/{config,data}
+   mkdir -p ~/nodered/data
+   mkdir -p ~/influxdb/data
+   mkdir -p ~/grafana/data
+
+   Esto crea carpetas para persistir la configuración y datos.
+     __________________________________________________________________
+
+PASO 3: Crear el archivo docker-compose.yml
+
+   Crea un archivo en tu directorio principal:
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   >
+   nano ~/docker-compose.yml
+
+   Y pega el siguiente contenido:
+   yaml
+   (BUTTON)
+   (BUTTON)
+   99
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   32
+   33
+   34
+   35
+   36
+   37
+   38
+   39
+   40
+   41
+   42
+   43
+   44
+   45
+   46
+   47
+   48
+   49
+   50
+   51
+   52
+   53
+   54
+   55
+   56
+   57
+   58
+   59
+   60
+   61
+   62
+   63
+   64
+   65
+   66
+   67
+   68
+   69
+   70
+   71
+   72
+   73
+   74
+   >
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   v
+   version: '3.8'
+   services:
+   homeassistant:
+   image: ghcr.io/home-assistant/home-assistant:stable
+   container_name: homeassistant
+   restart: unless-stopped
+   privileged: true
+   network_mode: host
+   volumes:
+   - ~/homeassistant/config:/config
+   - /run/dbus:/run/dbus
+   environment:
+   - TZ=Europe/Madrid # Cambia a tu zona horaria
+   devices:
+   - /dev/ttyUSB0:/dev/ttyUSB0 # Si usas Z-Wave/Zigbee
+   - /dev/serial/by-id/usb-1a86_7523-if00-port0:/dev/ttyUSB0 # Ajusta
+   según tu dispositivo
+   depends_on:
+   - nodered
+   nodered:
+   image: nodered/node-red:latest
+   container_name: nodered
+   restart: unless-stopped
+   user: "1000:1000"
+   ports:
+   - "1880:1880"
+   volumes: - ~/nodered/data:/data
+   - /etc/localtime:/etc/localtime:ro
+   environment:
+   - TZ=Europe/Madrid
+   networks:
+   - home_net
+   influxdb:
+   image: influxdb:1.8-alpine
+   container_name: influxdb
+   restart: unless-stopped
+   ports:
+   - "8086:8086"
+   environment:
+   - INFLUXDB_DB=homeassistant
+   - INFLUXDB_ADMIN_USER=admin
+   - INFLUXDB_ADMIN_PASSWORD=your_strong_password # Cambia esto
+   - INFLUXDB_USER=grafana
+   - INFLUXDB_USER_PASSWORD=grafana_password # Cambia esto
+   - INFLUXDB_HTTP_AUTH_ENABLED=true
+   volumes:
+   - ~/influxdb/data:/var/lib/influxdb
+   networks:
+   - home_net
+   grafana:
+   image: grafana/grafana:latest
+   container_name: grafana
+   restart: unless-stopped
+   ports:
+   - "3000:3000"
+   environment:
+   - GF_SECURITY_ADMIN_USER=admin
+   - GF_SECURITY_ADMIN_PASSWORD=grafana_admin_pass # Cambia esto
+   - GF_INSTALL_PLUGINS=grafana-piechart-panel
+   volumes:
+   - ~/grafana/data:/var/lib/grafana
+   - /etc/localtime:/etc/localtime:ro
+   networks:
+   - home_net
+   depends_on:
+   - influxdb
+   networks:
+   home_net:
+   driver: bridge
+
+     !!! Importante:
+     * Cambia las contraseñas (your_strong_password, grafana_password,
+       grafana_admin_pass).
+     * Ajusta la zona horaria (TZ) a la tuya (ej: America/New_York,
+       Asia/Tokyo, etc).
+     * Si usas dispositivos Zigbee/Z-Wave, ajusta la ruta del dispositivo
+       serial (/dev/ttyUSB0, etc).
+     __________________________________________________________________
+
+|> PASO 4: Iniciar los servicios
+
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   2
+   >
+   cd ~
+   docker-compose up -d
+
+   Esto descargará las imágenes y arrancará los contenedores.
+     __________________________________________________________________
+
+PASO 5: Acceder a las interfaces
+
+   Una vez iniciados:
+                      Servicio
+                        URL
+             Credenciales (por defecto)
+   Home Assistant
+   http://tu_ip:8123
+   Primera vez: crear usuario
+   Node-RED
+   http://tu_ip:1880
+   Sin autenticación (puedes activarla después)
+   Grafana
+   http://tu_ip:3000
+   Usuario: admin, Contraseña: grafana_admin_pass
+   InfluxDB
+   http://tu_ip:8086 (API/CLI)
+   No tiene interfaz web en v1.8
+   (BUTTON)
+     __________________________________________________________________
+
+PASO 6: Configurar integración entre servicios
+
+1. Home Assistant -> InfluxDB
+
+   Edita ~/homeassistant/config/configuration.yaml y añade:
+   yaml
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   2
+   3
+   4
+   5
+   6
+   >
+   v
+   recorder:
+   db_url:
+   mysql://admin:your_strong_password@localhost:8086/homeassistant?ssl=fal
+   se
+   # Nota: en realidad, Home Assistant no guarda directamente en InfluxDB
+   por recorder.
+   # Mejor usar el siguiente método:
+   # Desactivamos recorder para InfluxDB porque usamos el add-on de
+   exportación.
+
+   Mejor usar Node-RED o la integración nativa de InfluxDB.
+
+Opción recomendada: Usa el componente de InfluxDB en Home Assistant
+
+   Agrega en configuration.yaml:
+   yaml
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   >
+   v
+   influxdb:
+   host: influxdb
+   port: 8086
+   database: homeassistant
+   username: admin
+   password: your_strong_password
+   max_retries: 3
+
+     Esto hará que Home Assistant envíe automáticamente estados a
+     InfluxDB.
+     __________________________________________________________________
+
+2. Grafana -> InfluxDB (Fuente de datos)
+
+    1. Accede a Grafana (http://tu_ip:3000).
+    2. Ve a Configuration -> Data Sources -> Add data source.
+    3. Selecciona InfluxDB.
+    4. Configura:
+          + URL: http://influxdb:8086
+          + Database: homeassistant
+          + User: grafana
+          + Password: grafana_password
+          + HTTP Method: GET
+    5. Haz clic en Save & Test.
+     __________________________________________________________________
+
+3. Node-RED -> Home Assistant
+
+     * Usa el paquete node-red-contrib-home-assistant-websocket.
+     * En Node-RED, instálalo desde el administrador de paquetes.
+     * Conéctate a Home Assistant usando el token de acceso (crea uno en
+       http://tu_ip:8123/profile -> "Long-Lived Access Token").
+     __________________________________________________________________
+
+4. Node-RED -> InfluxDB
+
+     * Usa el nodo influxdb out.
+     * Configura la conexión con:
+          + Host: influxdb
+          + Port: 8086
+          + Database: homeassistant
+          + Auth: usuario grafana y contraseña.
+     __________________________________________________________________
+
+¡ PASO 7: Seguridad adicional (recomendado)
+
+     * Inverso Proxy (opcional): Usa Nginx Proxy Manager o Traefik para
+       exponer servicios con HTTPS.
+     * Backups: Haz copias de ~/homeassistant/config, ~/influxdb/data,
+       ~/grafana/data.
+     * Firewall: Usa ufw para bloquear puertos no necesarios.
+
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   2
+   3
+   4
+   5
+   >
+   sudo ufw allow 22
+   sudo ufw allow 8123 # Home Assistant
+   sudo ufw allow 1880 # Node-RED
+   sudo ufw allow 3000 # Grafana
+   sudo ufw enable
+     __________________________________________________________________
+
+Actualizaciones
+
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   2
+   3
+   4
+   >
+   # Detener y actualizar
+   docker-compose down
+   docker-compose pull
+   docker-compose up -d
+     __________________________________________________________________
+
+Resumen
+
+               Herramienta
+                   Rol
+   Home Assistant
+   Automatización central
+   Node-RED
+   Flujos avanzados y lógica
+   InfluxDB
+   Almacenamiento de series temporales
+   Grafana
+   Visualización de métricas
+   (BUTTON)
+
+   Todo en Docker, aislado, persistente y comunicándose en una red
+   interna.
+     __________________________________________________________________
+
+   ¿Quieres que te genere un script automático de instalación o una
+   versión con HTTPS y dominio? Puedo ayudarte también con eso.
+   Copiar
+   Preguntar
+   Explicar
+   (BUTTON)
+   Traducir(es-ES)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+   si, generame un scrip automatico de instalacion
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   profile
+   Qwen3-235B-A22B-2507 10:29 pm
+
+   ¡Claro! Aquí tienes un script automático de instalación que hará todo
+   por ti: instalará Docker, Docker Compose, creará la estructura de
+   directorios, configurará el docker-compose.yml y arrancará todos los
+   servicios (Home Assistant, Node-RED, InfluxDB y Grafana).
+
+     Solo necesitas ejecutar este script en tu máquina Debian 12 y
+     responder algunas preguntas básicas (contraseñas, zona horaria,
+     etc.).
+     __________________________________________________________________
+
+Script de Instalación Automática
+
+   Guarda este script como install_ha_stack.sh:
+   bash
+   (BUTTON)
+   (BUTTON)
+   999
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   32
+   33
+   34
+   35
+   36
+   37
+   38
+   39
+   40
+   41
+   42
+   43
+   44
+   45
+   46
+   47
+   48
+   49
+   50
+   51
+   52
+   53
+   54
+   55
+   56
+   57
+   58
+   59
+   60
+   61
+   >
+   #!/bin/bash
+   # ========================================================
+   # Script: Instalador automático de Home Assistant + Node-RED + InfluxDB
+   + Grafana
+   # Plataforma: Debian 12
+   # Requiere: Acceso sudo
+   # ========================================================
+   set -e # Salir si hay errores
+   # Colores para salida
+   GREEN='\033[0;32m'
+   YELLOW='\033[1;33m'
+   RED='\033[0;31m'
+   NC='\033[0m' # Sin color
+   echo -e "${GREEN} Iniciando instalación del stack Home Assistant +
+   Node-RED + InfluxDB + Grafana${NC}"
+   echo -e "${YELLOW}Asegúrate de tener privilegios sudo y conexión a
+   internet.${NC}\n"
+   # -----------------------------------------------
+   # 1. Preguntar datos del usuario
+   # -----------------------------------------------
+   read -p "Zona horaria (ej: Europe/Madrid, America/New_York,
+   Asia/Tokyo): " TZ
+   TZ="${TZ:-Europe/Madrid}"
+   read -s -p "Contraseña de administrador de InfluxDB: "
+   INFLUXDB_ADMIN_PASS
+   echo
+   INFLUXDB_ADMIN_PASS="${INFLUXDB_ADMIN_PASS:-influxadmin123}"
+   read -s -p "Contraseña de usuario InfluxDB para Grafana: "
+   INFLUXDB_USER_PASS
+   echo
+   INFLUXDB_USER_PASS="${INFLUXDB_USER_PASS:-grafana123}"
+   read -s -p "Contraseña de administrador de Grafana: "
+   GRAFANA_ADMIN_PASS
+   echo
+   GRAFANA_ADMIN_PASS="${GRAFANA_ADMIN_PASS:-admin123}"
+   read -p "¿Tienes un dispositivo Zigbee/Z-Wave? (ej: /dev/ttyUSB0, deja
+   vacío si no): " ZIGBEE_DEVICE
+   ZIGBEE_DEVICE="${ZIGBEE_DEVICE:-}"
+   # -----------------------------------------------
+   # 2. Actualizar sistema
+   # -----------------------------------------------
+   echo -e "${GREEN}¦ Actualizando sistema...${NC}"
+   sudo apt update && sudo apt upgrade -y
+   # -----------------------------------------------
+   # 3. Instalar dependencias
+   # -----------------------------------------------
+   echo -e "${GREEN}§ Instalando dependencias...${NC}"
+   sudo apt install -y curl git apt-transport-https ca-certificates
+   software-properties-common
+   # -----------------------------------------------
+   # 4. Instalar Docker
+   # -----------------------------------------------
+   echo -e "${GREEN}³ Instalando Docker...${NC}"
+   curl -fsSL https://get.docker.com | sh
+   echo -e "${YELLOW}Agregando usuario actual al grupo docker...${NC}"
+   sudo usermod -aG docker $USER
+     __________________________________________________________________
+
+|> Cómo usar el script
+
+    1. Guarda el script en tu máquina Debian 12:
+
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   >
+   nano install_ha_stack.sh
+
+   Pega el contenido, luego guarda con Ctrl+O, Enter, Ctrl+X.
+    2. Dale permisos de ejecución:
+
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   >
+   chmod +x install_ha_stack.sh
+    3. Ejecútalo:
+
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   >
+   ./install_ha_stack.sh
+
+     !!! El script te pedirá contraseñas y datos. Asegúrate de anotarlas.
+     __________________________________________________________________
+
+Actualización futura
+
+   Para actualizar los servicios más adelante:
+   bash
+   (BUTTON)
+   (BUTTON)
+   9
+   1
+   2
+   3
+   4
+   >
+   cd ~
+   docker-compose down
+   docker-compose pull
+   docker-compose up -d
+     __________________________________________________________________
+
+Recomendaciones de seguridad (opcional pero recomendado)
+
+     * Usa un proxy inverso (como Nginx Proxy Manager o Caddy) con HTTPS.
+     * Cambia los puertos expuestos si expones al exterior.
+     * Habilita autenticación en Node-RED (settings.js).
+     * Haz copias de seguridad regulares de las carpetas:
+          + ~/homeassistant/config
+          + ~/grafana/data
+          + ~/influxdb/data
+     __________________________________________________________________
+
+   ¿Quieres que te genere también una versión con HTTPS automático usando
+   Traefik o Nginx Proxy Manager? Puedo ayudarte a montar un entorno
+   profesional listo para producción.
+   Copiar
+   Preguntar
+   Explicar
+   (BUTTON)
+   Traducir(es-ES)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Edición de imagen
+   (BUTTON)
+   desarrollo web
+   (BUTTON)
+   Generación de imágenes
+   (BUTTON)
+   Generación de Video
+   (BUTTON)
+   Artefactos
+                       
+
+   ____________________________________________________________
+   (BUTTON)
+   (BUTTON) (BUTTON)
+   (BUTTON) Pensamiento
+   (BUTTON)
+   (BUTTON) Buscar
+   (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+   El contenido generado por IA puede no ser preciso.
+   (BUTTON) (BUTTON)
+   (BUTTON) ?
+   Qwen
+
+   Download App
+   Designed for mobile devices, offering better
+   experience and more features
+   [O1CN01VkRzBS1yOCPXfIX7D_!!6000000006568-2-tps-1180-980.avif]
+   [O1CN01QFSjs11VubZs7twov_!!6000000002713-2-tps-800-800.avif]
+   [O1CN01bfLFMh25ca9wrbJW4_!!6000000007547-2-tps-800-800.avif]
+   Press and hold to scan the QR code for download
+
+   IFRAME: [1]Qwen_files/frame.html
+
+References
+
+   1. file:///Users/josemanuelmendez/Documents/Iot/Qwen_files/frame.html
